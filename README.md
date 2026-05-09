@@ -24,37 +24,15 @@ I'm a final-year Computer Science undergraduate at Symbiosis University of Appli
 
 **Languages**
 
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" title="Python" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" title="JavaScript" /></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" title="C#" /></a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R" title="R" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" title="HTML5" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" title="CSS3" /></a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=python,js,cs,r,html,css)](https://skillicons.dev)
 
 **Frameworks & Libraries**
 
-<p align="left">
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" title="FastAPI" /></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" title="Flask" /></a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" title="React" /></a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" title="TensorFlow" /></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" title=".NET" /></a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" title="Node.js" /></a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=fastapi,flask,react,tensorflow,dotnet,nodejs)](https://skillicons.dev)
 
 **Databases & Cloud**
 
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" title="MongoDB" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" title="MySQL" /></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" title="Firebase" /></a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" title="Microsoft Azure" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" title="Git" /></a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" title="GitHub" /></a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" title="Postman" /></a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,firebase,azure,git,github,postman)](https://skillicons.dev)
 
 ---
 
@@ -91,16 +69,6 @@ I'm a final-year Computer Science undergraduate at Symbiosis University of Appli
 - 6-phase pipeline generating **20+ behavioral security metrics**
 - Encrypted logging, offline sync, ML anomaly scoring & real-time dashboard
 
-**🏛️ JanSewa — SIH Prototype** &nbsp;`Flutter · Python · FasterWhisper · Firebase · React`
-
-- AI civic platform — report time cut to **15s**, **92% auto-routing accuracy**
-- Handles **200+ req/min** with **<5s latency** and hotspot analytics
-
-**🏥 JeevanSetu** &nbsp;`Python · Flask · React · TensorFlow`
-
-- TB & malaria detection at **87–92% accuracy**
-- Sub-3s predictions for rural mobile health screening & telemedicine
-
 **✈️ [YatraMate — Travel Booking Platform](https://github.com/Crazy-Rohit/YatraMate)** &nbsp;`Flask · Python · HTML · CSS · JS`
 
 - Sleek travel website with animated landing page
@@ -111,11 +79,6 @@ I'm a final-year Computer Science undergraduate at Symbiosis University of Appli
 - Immersive 3D simulation with realistic planet textures & orbital motion
 - Bloom effects, background music & interactive user interface
 
-**📊 IPL Auction Analytics** &nbsp;`R · Machine Learning · IEEE Published`
-
-- ML-based player valuation using runs, strike rate & economy rate
-- Published at **IEEE WorldSUAS 2025**
-
 ---
 
 ## 📚 Publications
@@ -123,8 +86,6 @@ I'm a final-year Computer Science undergraduate at Symbiosis University of Appli
 - 📄 [**Sports Analytics for IPL Auctions: ML-Based Player Valuation**](https://ieeexplore.ieee.org/document/11199299) — *IEEE, Oct 2025*
 - 📄 [**Real-time Safety Management Through Gas Leakage Detection**](https://ijies.net/finial-docs/finial-pdf/1006251075.pdf) — *IJIES, Jun 2025*
 - 📄 [**Comparative Analysis of Kotlin, Swift, Flutter & React Native**](https://ijies.net/finial-docs/finial-pdf/0606251065.pdf) — *IJIES, Jun 2025*
-- 📄 **Smart Irrigation System** — *IJIES, May 2024*
-- 📄 **Smart Dustbin** — *IJIES, May 2024*
 - 📄 [**Security Automation System by Unique Identifier**](http://www.ijies.net/finial-docs/finial-pdf/2204249119.pdf) — *IJIES, Apr 2024*
 - 📄 [**Hawk Eye Radar System**](http://ijies.net/archives/vol-8-no-3) — *IJIES, Apr 2023*
 
@@ -141,23 +102,11 @@ I'm a final-year Computer Science undergraduate at Symbiosis University of Appli
 
 ## 🏅 Certifications
 
-<p align="left">
-  <a href="https://www.credly.com/badges/250e2d7f-57b5-4f40-8bf4-66b9d2c93843/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/size/110x110/images/44994cda-b5b0-44cb-9a6d-d29b74bce3d1/image.png" width="110" height="110" alt="AWS Data Engineering" title="AWS Academy Graduate – Data Engineering" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/a442ff68-245d-436f-895d-2c377ce1966f/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/size/110x110/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="110" height="110" alt="AWS Cloud Foundations" title="AWS Academy Graduate – Cloud Foundations" />
-  </a>&nbsp;&nbsp;
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/RohitManna-2646/62BAFFE3F806268B?sharingId=D5CA240A4B3E5178" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="110" height="110" alt="AZ-900" title="Microsoft Certified: Azure Fundamentals (AZ-900)" />
-  </a>&nbsp;&nbsp;
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/RohitManna-2646/7DE504C36C57B016?sharingId" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/image.png" width="110" height="110" alt="AI-900" title="Microsoft Certified: Azure AI Fundamentals (AI-900)" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/565c514e-8f6d-4118-b893-6c0bcbde4a8f/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/size/110x110/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="110" height="110" alt="DP-900" title="Microsoft Certified: Azure Data Fundamentals (DP-900)" />
-  </a>
-</p>
+- ☁️ [**AWS Academy Graduate — Data Engineering**](https://www.credly.com/badges/250e2d7f-57b5-4f40-8bf4-66b9d2c93843/public_url) — *Amazon Web Services, Oct 2025*
+- ☁️ [**AWS Academy Graduate — Cloud Foundations**](https://www.credly.com/badges/a442ff68-245d-436f-895d-2c377ce1966f/public_url) — *Amazon Web Services, Mar 2025*
+- 🔷 [**Microsoft Certified: Azure Fundamentals (AZ-900)**](https://learn.microsoft.com/api/credentials/share/en-us/RohitManna-2646/62BAFFE3F806268B?sharingId=D5CA240A4B3E5178) — *Microsoft, Jun 2025*
+- 🔷 [**Microsoft Certified: Azure AI Fundamentals (AI-900)**](https://learn.microsoft.com/api/credentials/share/en-us/RohitManna-2646/7DE504C36C57B016?sharingId) — *Microsoft, Jun 2024*
+- 🔷 [**Microsoft Certified: Azure Data Fundamentals (DP-900)**](https://www.credly.com/badges/565c514e-8f6d-4118-b893-6c0bcbde4a8f/public_url) — *Microsoft, Mar 2024*
 
 ---
 
