@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Manna</h1>
-<h3 align="center">CS Undergrad · AI/ML Engineer · Backend Developer · Published Researcher</h3>
+<h3 align="center">CS Undergrad · AI/ML Engineer · Full Stack Developer · Published Researcher</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Building+intelligent+backend+systems;ML+Pipelines+%7C+REST+APIs+%7C+NLP;Hackathon+Winner+%7C+IEEE+Published+Researcher;Open+to+Internships+%26+Full-Time+Roles+%F0%9F%9A%80" alt="Typing SVG" />
@@ -16,107 +16,77 @@
 
 ## 🧑‍💻 About Me
 
-```python
-class RohitManna:
-    education  = "B.Tech CSE @ Symbiosis University of Applied Sciences (CGPA: 9.86/10)"
-    location   = "Indore, India 🇮🇳"
-    stack      = ["Python", "FastAPI", "Flask", "React.js", "TensorFlow", "MongoDB"]
-    interests  = ["AI/ML Engineering", "Backend Systems", "NLP", "System Design"]
-    currently  = "AI Engineer Intern @ IntelliH, Inc. 🚀"
-    open_to    = "Internships & Full-Time Opportunities"
-```
+I'm a final-year Computer Science undergraduate at Symbiosis University of Applied Sciences, Indore, with a CGPA of 9.86/10. I'm passionate about building AI-powered systems, scalable backend APIs, and full stack web applications. Currently working as an AI Engineer Intern at IntelliH, Inc., I've published 7 research papers across IEEE and IJIES, won hackathons, and shipped production-grade ML systems. I'm actively open to internships and full-time opportunities in AI/ML and full stack development.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-**Frameworks & Libraries**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**Databases & Cloud**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,cs,dart,r,html,css&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,react,tensorflow,flutter,dotnet,nodejs&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,azure,git,github,postman&theme=dark" />
+</p>
 
 ---
 
 ## 💼 Experience
 
-| Role | Company | Duration |
-|------|---------|----------|
-| 🤖 **AI Engineer Intern** | IntelliH, Inc. | Sep 2025 – Present |
-| 🌐 **Frontend Developer Intern** | Prodesk IT | Jun 2025 – Jul 2025 |
-| 🐍 **Python Developer Intern** | YBI Foundation | May 2024 – Jul 2024 |
-| 💻 **Web Developer Intern** | Bolt IoT | Jun 2023 – Jul 2023 |
+**🤖 AI Engineer Intern — IntelliH, Inc.** `Sep 2025 – Present`
+EDA in Python/R · Building classification & regression models · Supporting AI pipeline & BI visualization
 
-**Highlights:**
-- **IntelliH** — EDA in Python/R · Building classification & regression models · Supporting AI pipeline development
-- **YBI Foundation** — Trained ML models on real-world datasets · Applied supervised & unsupervised algorithms
-- **Bolt IoT** — Built *Quizo*, a full-stack online quiz platform · Front-end & back-end development
+**🌐 Frontend Developer Intern — Prodesk IT** `Jun 2025 – Jul 2025`
+Responsive UI development · HTML, CSS, JavaScript · Modern UI/UX practices
+
+**🐍 Python Developer Intern — YBI Foundation** `May 2024 – Jul 2024`
+Trained ML models on real-world datasets · Applied supervised & unsupervised algorithms
+
+**💻 Web Developer Intern — Bolt IoT** `Jun 2023 – Jul 2023`
+Built *Quizo*, a full-stack online quiz platform · Front-end & back-end development
 
 ---
 
 ## 🌟 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🛡️ Insider Threat Detection</h3>
-      <p><code>Python · MongoDB · Flutter · ML</code></p>
-      <p>6-phase pipeline generating <b>20+ behavioral security metrics</b> with encrypted logging, offline sync, ML anomaly scoring & real-time dashboard.</p>
-    </td>
-    <td width="50%">
-      <h3>🏛️ JanSewa <sub>(SIH Prototype)</sub></h3>
-      <p><code>Flutter · Python · FasterWhisper · Firebase · React</code></p>
-      <p>AI civic platform — report time <b>15s</b>, <b>92% auto-routing accuracy</b>, handles <b>200+ req/min</b> with <b>&lt;5s latency</b>.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🏥 JeevanSetu</h3>
-      <p><code>Python · Flask · React · TensorFlow</code></p>
-      <p>TB & malaria detection at <b>87–92% accuracy</b>. Sub-3s predictions for rural mobile health screening & telemedicine.</p>
-    </td>
-    <td width="50%">
-      <h3>📊 IPL Auction Analytics</h3>
-      <p><code>R · Machine Learning · IEEE Published</code></p>
-      <p>ML-based player valuation using KPIs like runs, strike rate & economy rate. Published at <b>IEEE WorldSUAS 2025</b>.</p>
-    </td>
-  </tr>
-</table>
+**🛡️ [InnerWall — Insider Threat Detection System](https://github.com/Crazy-Rohit/Innerwall-Insider-Threat-Detection-System)**
+`Python · MongoDB · Flutter · ML`
+6-phase pipeline generating **20+ behavioral security metrics** with encrypted logging, offline sync, ML anomaly scoring & real-time dashboard.
+
+**🏛️ JanSewa — SIH Prototype**
+`Flutter · Python · FasterWhisper · Firebase · React`
+AI civic platform — report time **15s**, **92% auto-routing accuracy**, handles **200+ req/min** with **<5s latency** and hotspot analytics.
+
+**🏥 JeevanSetu**
+`Python · Flask · React · TensorFlow`
+TB & malaria detection at **87–92% accuracy**. Sub-3s predictions for rural mobile health screening & telemedicine.
+
+**✈️ [YatraMate — Travel Booking Platform](https://github.com/Crazy-Rohit/YatraMate)**
+`Flask · Python · HTML · CSS · JavaScript`
+Sleek travel website with animated landing page, secure email OTP login, and session-based booking of travel itineraries.
+
+**🪐 [Interactive 3D Solar System](https://github.com/Crazy-Rohit/Solar-System)**
+`Three.js · JavaScript · WebGL`
+Immersive 3D solar system simulation with realistic planet textures, orbital motion, bloom effects, background music & interactive UI.
+
+**📊 IPL Auction Analytics**
+`R · Machine Learning · IEEE Published`
+ML-based player valuation using KPIs like runs, strike rate & economy rate. Published at **IEEE WorldSUAS 2025**.
 
 ---
 
 ## 📚 Publications
 
-| # | Title | Journal | Year |
-|---|-------|---------|------|
-| 1 | [Sports Analytics for IPL Auctions: ML-Based Player Valuation](https://doi.org/10.1109/WorldSUAS66815.2025.11199299) | IEEE | 2025 |
-| 2 | Real-time Safety Management Through Gas Leakage Detection | IJIES | 2025 |
-| 3 | Comparative Analysis of Kotlin, Swift, Flutter & React Native | IJIES | 2025 |
-| 4 | Smart Irrigation System | IJIES | 2024 |
-| 5 | Smart Dustbin | IJIES | 2024 |
-| 6 | Security Automation System by Unique Identifier | IJIES | 2024 |
-| 7 | Hawk Eye Radar System | IJIES | 2023 |
+- 📄 [**Sports Analytics for IPL Auctions: ML-Based Player Valuation**](https://ieeexplore.ieee.org/document/11199299) — *IEEE, Oct 2025*
+- 📄 [**Real-time Safety Management Through Gas Leakage Detection**](https://ijies.net/finial-docs/finial-pdf/1006251075.pdf) — *IJIES, Jun 2025*
+- 📄 [**Comparative Analysis of Kotlin, Swift, Flutter & React Native**](https://ijies.net/finial-docs/finial-pdf/0606251065.pdf) — *IJIES, Jun 2025*
+- 📄 [**Security Automation System by Unique Identifier**](http://www.ijies.net/finial-docs/finial-pdf/2204249119.pdf) — *IJIES, Apr 2024*
+- 📄 **Smart Irrigation System** — *IJIES, May 2024*
+- 📄 **Smart Dustbin** — *IJIES, May 2024*
+- 📄 [**Hawk Eye Radar System**](http://ijies.net/archives/vol-8-no-3) — *IJIES, Apr 2023*
 
 ---
 
@@ -127,18 +97,20 @@ class RohitManna:
 
 ---
 
-## 🎓 Education
+## 🏅 Certifications
 
-**🎓 B.Tech in Computer Science** — Symbiosis University of Applied Sciences, Indore *(2022 – 2026)*
-**CGPA: 9.86 / 10**
+- ☁️ [**AWS Academy Graduate — Data Engineering**](https://www.credly.com/badges/250e2d7f-57b5-4f40-8bf4-66b9d2c93843/public_url) — *Amazon Web Services, Oct 2025*
+- ☁️ [**AWS Academy Graduate — Cloud Foundations**](https://www.credly.com/badges/a442ff68-245d-436f-895d-2c377ce1966f/public_url) — *Amazon Web Services, Mar 2025*
+- 🔷 [**Microsoft Certified: Azure Fundamentals (AZ-900)**](https://learn.microsoft.com/api/credentials/share/en-us/RohitManna-2646/62BAFFE3F806268B?sharingId=D5CA240A4B3E5178) — *Microsoft, Jun 2025*
+- 🔷 [**Microsoft Certified: Azure AI Fundamentals (AI-900)**](https://learn.microsoft.com/api/credentials/share/en-us/RohitManna-2646/7DE504C36C57B016?sharingId) — *Microsoft, Jun 2024*
+- 🔷 [**Microsoft Certified: Azure Data Fundamentals (DP-900)**](https://www.credly.com/badges/565c514e-8f6d-4118-b893-6c0bcbde4a8f/public_url) — *Microsoft, Mar 2024*
 
 ---
 
-## 🏅 Certifications
+## 🎓 Education
 
-![AZ-900](https://img.shields.io/badge/Azure_AZ--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AI-900](https://img.shields.io/badge/Azure_AI--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![DP-900](https://img.shields.io/badge/Azure_DP--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+🎓 **B.Tech in Computer Science** — Symbiosis University of Applied Sciences, Indore *(2022 – 2026)*
+**CGPA: 9.86 / 10**
 
 ---
 
