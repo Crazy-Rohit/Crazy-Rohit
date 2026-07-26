@@ -114,7 +114,7 @@ I'm a final-year Computer Science undergraduate at Symbiosis University of Appli
 
 🎓 **B.Tech in Computer Science** — Symbiosis University of Applied Sciences, Indore *(2022 – 2026)*
 
-**CGPA: 9.86 / 10**
+**CGPA: 9.84 / 10**
 
 ---
 
