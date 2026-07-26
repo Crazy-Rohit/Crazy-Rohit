@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a final-year Computer Science undergraduate at Symbiosis University of Applied Sciences, Indore, with a CGPA of 9.86/10. I'm passionate about building AI-powered systems, scalable backend APIs, and full stack web applications. Currently working as an AI Engineer Intern at IntelliH, Inc., I've published 7 research papers across IEEE and IJIES, won hackathons, and shipped production-grade ML systems. I'm actively open to internships and full-time opportunities in AI/ML and full stack development.
+I'm a Computer Science graduate (B.Tech) from Symbiosis University of Applied Sciences, Indore, with a CGPA of 9.84/10. I'm passionate about building AI-powered systems, scalable backend APIs, and full stack web applications. Currently working as an AI Engineer Intern at IntelliH, Inc., I've published many research papers across IEEE and IJIES, won hackathons, and shipped production-grade ML systems. I'm actively open to internships and full-time opportunities in AI/ML and full stack development.
 
 ---
 
@@ -84,10 +84,10 @@ I'm a final-year Computer Science undergraduate at Symbiosis University of Appli
 ## 📚 Publications
 
 - 📄 [**Sports Analytics for IPL Auctions: ML-Based Player Valuation**](https://ieeexplore.ieee.org/document/11199299) — *IEEE, Oct 2025*
-- 📄 [**Real-time Safety Management Through Gas Leakage Detection**](https://ijies.net/finial-docs/finial-pdf/1006251075.pdf) — *IJIES, Jun 2025*
-- 📄 [**Comparative Analysis of Kotlin, Swift, Flutter & React Native**](https://ijies.net/finial-docs/finial-pdf/0606251065.pdf) — *IJIES, Jun 2025*
-- 📄 [**Security Automation System by Unique Identifier**](http://www.ijies.net/finial-docs/finial-pdf/2204249119.pdf) — *IJIES, Apr 2024*
-- 📄 [**Hawk Eye Radar System**](http://ijies.net/archives/vol-8-no-3) — *IJIES, Apr 2023*
+- 📄 **Real-time Safety Management Through Gas Leakage Detection** — *IJIES, Jun 2025*
+- 📄 **Comparative Analysis of Kotlin, Swift, Flutter & React Native** — *IJIES, Jun 2025*
+- 📄 **Security Automation System by Unique Identifier** — *IJIES, Apr 2024*
+- 📄 **Hawk Eye Radar System** — *IJIES, Apr 2023*
 
 ---
 
