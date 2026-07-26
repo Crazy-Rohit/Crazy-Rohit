@@ -38,24 +38,24 @@ I'm a Computer Science graduate (B.Tech) from Symbiosis University of Applied Sc
 
 ## 💼 Experience
 
-**🤖 AI Engineer Intern — IntelliH, Inc.** &nbsp;`Sep 2025 – Present`
+**AI Engineer Intern — IntelliH, Inc.** &nbsp;`Sep 2025 – Present`
 
 - Collect, clean, and transform data for ML modeling
 - EDA using Python/R; build classification & regression models
 - Support model validation, experimentation & AI pipeline development
 - BI tool-based data visualization
 
-**🌐 Frontend Developer Intern — Prodesk IT** &nbsp;`Jun 2025 – Jul 2025`
+**Frontend Developer Intern — Prodesk IT** &nbsp;`Jun 2025 – Jul 2025`
 
 - Built responsive and user-friendly web interfaces
 - Implemented modern UI/UX practices with HTML, CSS & JavaScript
 
-**🐍 Python Developer Intern — YBI Foundation** &nbsp;`May 2024 – Jul 2024`
+**Python Developer Intern — YBI Foundation** &nbsp;`May 2024 – Jul 2024`
 
 - Trained ML models for supervised and unsupervised use cases
 - Applied core Python & ML algorithms on real-world datasets
 
-**💻 Web Developer Intern — Bolt IoT** &nbsp;`Jun 2023 – Jul 2023`
+**Web Developer Intern — Bolt IoT** &nbsp;`Jun 2023 – Jul 2023`
 
 - Built *Quizo*, a full-stack online quiz platform
 - Front-end & back-end development; minor projects for the company
