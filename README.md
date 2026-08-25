@@ -121,10 +121,13 @@ I'm a Computer Science graduate (B.Tech) from Symbiosis University of Applied Sc
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Crazy-Rohit&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=Crazy-Rohit&theme=tokyonight&hide_border=true"
     alt="GitHub Streak Stats"
   />
 </p>
+
+---
+
 
 ---
 
