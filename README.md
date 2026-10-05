@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Computer Science graduate (B.Tech) from Symbiosis University of Applied Sciences, Indore, with a CGPA of 9.84/10. I'm passionate about building AI-powered systems, scalable backend APIs, and full stack web applications. Currently working as an AI Engineer Intern at IntelliH, Inc., I've published many research papers across IEEE and IJIES, won hackathons, and shipped production-grade ML systems. I'm actively open to internships and full-time opportunities in AI/ML and full stack development.
+I'm a Computer Science graduate (B.Tech) from Symbiosis University of Applied Sciences, Indore, with a CGPA of 9.84/10. I'm passionate about building AI-powered systems, scalable backend APIs, and full stack web applications. Currently working as an Associate AI Engineer at Healthplans.ai, I've published many research papers across IEEE and IJIES, won hackathons, and shipped production-grade ML systems. I'm actively open to internships and full-time opportunities in AI/ML and full stack development.
 
 ---
 
@@ -38,7 +38,14 @@ I'm a Computer Science graduate (B.Tech) from Symbiosis University of Applied Sc
 
 ## 💼 Experience
 
-**AI Engineer Intern — IntelliH, Inc.** &nbsp;`Sep 2025 – Present`
+**Associate AI Engineer — Healthplans.ai** &nbsp;`Sep 2025 – Present`
+
+- Lead AI/ML projects from data preparation to model development and validation.
+- Build and optimize classification and regression models using Python/R.
+- Drive experimentation and development of end-to-end AI/ML pipelines.
+- Create data visualizations and deliver insights to support business decisions.
+
+- **AI Engineer Intern — Healthplans.ai** &nbsp;`Sep 2025 – Present`
 
 - Collect, clean, and transform data for ML modeling
 - EDA using Python/R; build classification & regression models
