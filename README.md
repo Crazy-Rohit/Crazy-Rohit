@@ -38,14 +38,14 @@ I'm a Computer Science graduate (B.Tech) from Symbiosis University of Applied Sc
 
 ## 💼 Experience
 
-**Associate AI Engineer — Healthplans.ai** &nbsp;`Sep 2025 – Present`
+**Associate AI Engineer — Healthplans.ai** &nbsp;`Sep 2026 – Present`
 
 - Lead AI/ML projects from data preparation to model development and validation.
 - Build and optimize classification and regression models using Python/R.
 - Drive experimentation and development of end-to-end AI/ML pipelines.
 - Create data visualizations and deliver insights to support business decisions.
 
-- **AI Engineer Intern — Healthplans.ai** &nbsp;`Sep 2025 – Present`
+**AI Engineer Intern — Healthplans.ai** &nbsp;`Sep 2025 – Sep 2026`
 
 - Collect, clean, and transform data for ML modeling
 - EDA using Python/R; build classification & regression models
